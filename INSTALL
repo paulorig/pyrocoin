@@ -1,0 +1,9 @@
+Building PyroCoin
+
+See doc/readme-qt.rst for instructions on building PyroCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PyroCoin.
+
+See doc/build-*.txt for instructions on building pyrocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PyroCoin.
